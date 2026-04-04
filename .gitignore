@@ -9,3 +9,6 @@ backprop.md
 # VS Code
 *.virtual_documents
 *.code-workspace
+
+# PyTorch files
+*.pt
