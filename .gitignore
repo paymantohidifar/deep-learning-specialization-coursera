@@ -12,6 +12,7 @@ backprop.md
 
 # PyTorch files
 *.pt
+
 # pixi environments
 .pixi/*
 !.pixi/config.toml
