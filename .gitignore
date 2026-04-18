@@ -16,3 +16,6 @@ backprop.md
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+
+#MISC
+todos.txt
